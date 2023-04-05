@@ -1,0 +1,5 @@
+npx express-generator  --view=ejs
+yarn add express
+yarn add nodemon
+yarn add sequelize
+yarn add express-flash
